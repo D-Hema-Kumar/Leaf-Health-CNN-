@@ -4,6 +4,15 @@ Given a photo of an apple leaf, the notebook predicts which of the 4 classes the
 
 Automated monitoring through installation of cameras in the Apple orchards can help focus on the plants which actually needs attention. Farmers can then decide on the treatment with chemicals for resolution.
 
+The following sections were covered
+
+- Data Augmentation
+- Data Normalisation
+- Training On GPU
+- Learning rate scheduling : One Cycle Learning rate policy
+- Weight Decay
+- Adam & SGD Optimizers
+
 https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7/data
 
 ## Summary & Discussion
